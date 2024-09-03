@@ -4,7 +4,7 @@
 
 This repository contains the frontend of a functional WildLens Tour booking platform. The application is designed with a focus on providing a smooth and intuitive user experience. Built with React.js, it features a responsive design, interactive components, and an elegant UI.
 
-**NETLIFY-URL** --> https://unique-sorbet-9172d3.netlify.app
+**NETLIFY-URL** --> https://wondrous-palmier-a4cf7c.netlify.app/
 
 ## 🧰 Tech Stack
 
